@@ -1,6 +1,6 @@
 # HTML BASICS
 
-<p><a href="ttps://jolly-bhabha-eb7659.netlify.com" title="Title">sensive url site</a> </p>
+(https://jolly-bhabha-eb7659.netlify.com)[sensive url]
 
 
 converting the image to html and css
